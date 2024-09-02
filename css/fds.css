@@ -1,0 +1,23 @@
+
+body{
+background-color: navajowhite;
+}
+
+img{
+width:  80px;
+height:  80px;
+}
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    height: 15px;
+}
+
+.accordion-button{
+    background-color: antiquewhite;
+}
+#flush-collapseOne{
+    background-color: antiquewhite;
+    
+}
+#flush-collapseOne
